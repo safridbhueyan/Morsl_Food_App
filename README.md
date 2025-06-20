@@ -57,5 +57,7 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/backbencherstudio/celina_food_image_app.git
    cd celina_food_image_app
-# Morsl_Food-App
-# Morsl_Food_App
+![Image](https://github.com/user-attachments/assets/8a28ac28-7baa-42d6-a8b2-b1713a1c4e04)
+![Image](https://github.com/user-attachments/assets/d78501f3-2324-495e-8d12-90f4ade5f728)
+![Image](https://github.com/user-attachments/assets/c8fc6080-1567-442d-a4de-2eb6df7d5877)
+![Image](https://github.com/user-attachments/assets/00cc404c-dc10-4cc6-a8d4-c8baa80a8dd6)
