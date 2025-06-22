@@ -1,4 +1,4 @@
-# Morsl App - Celina0057
+# Morsl App 
 
 Morsl is a Flutter-based mobile application aimed at providing a platform to discover, share, and store delicious recipes. This app offers a smooth user interface, featuring a recipe home page, favorites management and settings flow.
 
